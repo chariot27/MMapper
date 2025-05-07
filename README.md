@@ -1,5 +1,5 @@
 
-# 📦 MMapper - Exemplos de Uso
+# 📦 MMapper
 
 Este repositório contém exemplos demonstrando as funcionalidades do **MMapper**, uma biblioteca de mapeamento de objetos em .NET. Ideal para quem busca uma alternativa leve e extensível para transformar objetos entre camadas da aplicação.
 
