@@ -1,4 +1,4 @@
-![Logo do Projeto](./imagens/logo.png)
+![Logo do Projeto](mmapper_logo.png)
 
 
 # 📦 MMapper
