@@ -214,4 +214,4 @@ Este projeto está licenciado sob a MIT License.
 
 ## 👨‍💻 Autor
 
-Feito com 💙 por [Seu Nome ou Nome do Time].
+Feito com 💙 por Maximiliano Tarigo.
