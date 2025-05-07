@@ -1,0 +1,1 @@
+public class TextoDestino { public string Dados { get; set; } }

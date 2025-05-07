@@ -1,0 +1,10 @@
+C:\Users\ittol16\source\repos\MMapper\MMapper.Console\obj\Debug\MMapper.Console.csproj.AssemblyReference.cache
+C:\Users\ittol16\source\repos\MMapper\MMapper.Console\obj\Debug\MMapper.Console.csproj.CoreCompileInputs.cache
+C:\Users\ittol16\source\repos\MMapper\MMapper.Console\bin\Debug\MMapper.Console.exe.config
+C:\Users\ittol16\source\repos\MMapper\MMapper.Console\bin\Debug\MMapper.Console.exe
+C:\Users\ittol16\source\repos\MMapper\MMapper.Console\bin\Debug\MMapper.Console.pdb
+C:\Users\ittol16\source\repos\MMapper\MMapper.Console\bin\Debug\MMapper.Lib.dll
+C:\Users\ittol16\source\repos\MMapper\MMapper.Console\bin\Debug\MMapper.Lib.pdb
+C:\Users\ittol16\source\repos\MMapper\MMapper.Console\obj\Debug\MMapper..E6651496.Up2Date
+C:\Users\ittol16\source\repos\MMapper\MMapper.Console\obj\Debug\MMapper.Console.exe
+C:\Users\ittol16\source\repos\MMapper\MMapper.Console\obj\Debug\MMapper.Console.pdb

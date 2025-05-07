@@ -1,0 +1,1 @@
+public class ProdutoDto { public string Titulo { get; set; } }

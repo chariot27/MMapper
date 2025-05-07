@@ -1,0 +1,1 @@
+public class ClienteDto { public string Nome { get; set; } public EnderecoDto Endereco { get; set; } }

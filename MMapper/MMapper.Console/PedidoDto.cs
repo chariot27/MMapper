@@ -1,0 +1,1 @@
+public class PedidoDto { public string NumeroPedido { get; set; } }

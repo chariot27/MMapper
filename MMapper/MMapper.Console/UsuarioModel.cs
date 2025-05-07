@@ -1,0 +1,1 @@
+public class UsuarioModel { public string Nome { get; set; } public int Idade { get; set; } }

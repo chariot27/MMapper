@@ -1,0 +1,1 @@
+public class EnderecoModel { public string Cidade { get; set; } }

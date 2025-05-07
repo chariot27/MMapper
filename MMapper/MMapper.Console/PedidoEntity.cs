@@ -1,0 +1,1 @@
+public class PedidoEntity { public int NumeroPedido { get; set; } }

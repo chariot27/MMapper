@@ -1,0 +1,1 @@
+public class Destination { public string Nome { get; set; } }

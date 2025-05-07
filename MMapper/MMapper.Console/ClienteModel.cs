@@ -1,0 +1,1 @@
+public class ClienteModel { public string Nome { get; set; } public EnderecoModel Endereco { get; set; } }

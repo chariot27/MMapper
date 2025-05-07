@@ -1,0 +1,1 @@
+public class BlobSource { public byte[] Dados { get; set; } }

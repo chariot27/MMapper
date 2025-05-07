@@ -1,0 +1,6 @@
+C:\Users\ittol16\source\repos\MMapper\MMapper.Lib\bin\Debug\MMapper.Lib.dll
+C:\Users\ittol16\source\repos\MMapper\MMapper.Lib\bin\Debug\MMapper.Lib.pdb
+C:\Users\ittol16\source\repos\MMapper\MMapper.Lib\obj\Debug\MMapper.Lib.csproj.AssemblyReference.cache
+C:\Users\ittol16\source\repos\MMapper\MMapper.Lib\obj\Debug\MMapper.Lib.csproj.CoreCompileInputs.cache
+C:\Users\ittol16\source\repos\MMapper\MMapper.Lib\obj\Debug\MMapper.Lib.dll
+C:\Users\ittol16\source\repos\MMapper\MMapper.Lib\obj\Debug\MMapper.Lib.pdb

@@ -1,0 +1,1 @@
+public class ProdutoEntity { public string NomeProduto { get; set; } }

@@ -1,0 +1,1 @@
+public class EventoDto { public string DataEvento { get; set; } }
